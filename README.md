@@ -53,7 +53,7 @@ Worked on Admin and User module
 
 #### Kartikey Mishra
 >Github: [Kartikey0813](https://github.com/Kartikey0813)
-Worked onNavbar, Footer, Login and Logout Module
+Worked on Navbar, Footer, Login and Logout Module
 
 #### Arth Bhushan
 >Github: [arthbh](https://github.com/arthbh)
